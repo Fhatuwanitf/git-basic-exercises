@@ -1,0 +1,199 @@
+    1  
+    2  sudo apt update
+    3  sudo apt full-upgrade
+    4  team
+    5  is
+    6  apt install ironseed
+    7  Is
+    8  is
+    9  ls
+   10  ls /data
+   11  ls /
+   12  ls
+   13  pwp
+   14  nano opening_lines.txt
+   15  mkdir
+   16  mkdir:
+   17  apt install
+   18  ls
+   19  mkdir git-basic-exercises
+   20  ls
+   21  cd git-basic-exercises
+   22  cd
+   23  git init
+   24  ls -a
+   25  git status
+   26  touch README.md
+   27  git add
+   28  git status
+   29  git add
+   30  git status
+   31  git commit -m "initial commit"
+   32  git add
+   33  ls
+   34  cd git-basic-exercises
+   35  ls -a
+   36  git init
+   37  ls -a
+   38  git status
+   39  touch README.md
+   40  ls -a
+   41  git status
+   42  git log
+   43  git add
+   44  git status
+   45  git add  README.md
+   46  git status
+   47  git rm --cached <file>...
+   48  git status
+   49  git rm
+   50  git rm --cached <file>README.md
+   51  git commit -m "initial commit"
+   52  git log
+   53  q
+   54  nano README.md
+   55  cat README.md
+   56  git status
+   57  "second commit"
+   58  cd git-basic-exercises
+   59  mkdir
+   60  ls -a
+   61  touch README.md
+   62  git log
+   63  git add second commit
+   64  cd second commit
+   65  cd
+   66  second commit
+   67  ls
+   68  mkdir second commit
+   69  cd second commit
+   70  cd git-basic-exercises
+   71  mkdir second commit
+   72  ls
+   73  git status
+   74  git add second commit
+   75  git add third commit
+   76  git status
+   77  git commit -a"
+   78  second commit
+   79  third commit
+   80  git add
+   81  ls
+   82  commit  git-basic-exercises
+   83  git-basic-exercises
+   84  cd
+   85  ls
+   86  git-basic-exercises
+   87  nano README.md
+   88  cat README.md
+   89  "second commit"
+   90  git commit -m "second commit"
+   91  git add second commit
+   92  git commit -m "second commit"
+   93  git status
+   94  git log
+   95  git add
+   96  git add "second commit"
+   97  git log
+   98  git status
+   99  ls
+  100  Readme.md
+  101  ls
+  102  README.md
+  103  README.md  commit  git-basic-exercises
+  104  cd git-basic-exercises
+  105  ls -a
+  106  git init
+  107  git status
+  108  git restore <file>
+  109  git restore git-basic-exercises
+  110  git restore
+  111  git restore README.md
+  112  ls -a
+  113  git status
+  114  git log
+  115  git commit -m "second commit" 
+  116  git log isn’t that nice?
+  117  git log
+  118  ls
+  119  cd git-basic-exercises
+  120  touch README.md
+  121  ls -a
+  122  git status
+  123  git log
+  124  git add
+  125  git add README.md
+  126  git status
+  127  git commit -m "second commit"
+  128  git-basic-exercises
+  129  ls -a
+  130  cd git-basic-exercises
+  131  ls
+  132  git status
+  133  git log
+  134  git add README.md
+  135  ls -a
+  136  git status
+  137  git log
+  138  ouch README.md
+  139  cd git-basic-exercises
+  140  ls
+  141  git status
+  142  git add third commit
+  143  add second commit
+  144  git add second commit
+  145  git status
+  146  touch README.md
+  147  ls a
+  148  ls -a
+  149  git status
+  150  git log
+  151  git add initial commit
+  152  readme
+  153  git add readme
+  154  git add README.md
+  155  git status
+  156  git commit -m "initial commit"
+  157  git diff
+  158  git add initial commit
+  159  git add README.md
+  160  git status
+  161  git log
+  162  touch README.md
+  163  ls -a
+  164  git status
+  165  git log
+  166  git add README.md
+  167  git status
+  168  git commit -m "initial commit"
+  169  git log
+  170  q
+  171  nano README.md
+  172  cat README.md
+  173  git status
+  174  git commit -m "second commit"
+  175  nano README.md
+  176  cat README.md
+  177  git status
+  178  git commit -m "third commit"
+  179  git log
+  180  q
+  181  git checkout
+  182  cat README.md
+  183  git checkout main
+  184  cat README.md
+  185  git checkout
+  186  git branch
+  187  main
+  188  milkshake-flavours
+  189  git checkout -bmilkshake-flavours 
+  190  git branch
+  191  nano milkshakes.md
+  192  git status
+  193  git commit -a  "added initial flavours"
+  194  git log 
+  195  git branch
+  196  git checkout -bhistory
+  197  git log
+  198  git branch 
+  199  history > history.txt
